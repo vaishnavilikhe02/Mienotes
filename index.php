@@ -1,5 +1,7 @@
 <?php
     //connect to database
+
+    // Edited by Pratham Patil on 7th August at 9.30 AM for Cloud Activity 
     
 $servername = "localhost";
 $username = "root";
